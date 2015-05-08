@@ -1,0 +1,5 @@
+C:\Users\USER\Documents\Visual Studio 2012\Projects\HealthClinicManagementSystem\WcfServiceForAppointment\bin\WcfServiceForAppointment.dll
+C:\Users\USER\Documents\Visual Studio 2012\Projects\HealthClinicManagementSystem\WcfServiceForAppointment\bin\WcfServiceForAppointment.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\HealthClinicManagementSystem\WcfServiceForAppointment\obj\Debug\WcfServiceForAppointment.dll
+C:\Users\USER\Documents\Visual Studio 2012\Projects\HealthClinicManagementSystem\WcfServiceForAppointment\obj\Debug\WcfServiceForAppointment.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\HealthClinicManagementSystem\WcfServiceForAppointment\obj\Debug\WcfServiceForAppointment.csprojResolveAssemblyReference.cache

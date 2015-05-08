@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{8909E7FC-A5CC-4AA2-8D73-1A4168D6CC20}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7449B5C5-2E8C-41C3-81E3-19ED26982F2E} = {7449B5C5-2E8C-41C3-81E3-19ED26982F2E}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceForAppointment", "WcfServiceForAppointment\WcfServiceForAppointment.csproj", "{7449B5C5-2E8C-41C3-81E3-19ED26982F2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8909E7FC-A5CC-4AA2-8D73-1A4168D6CC20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8909E7FC-A5CC-4AA2-8D73-1A4168D6CC20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8909E7FC-A5CC-4AA2-8D73-1A4168D6CC20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8909E7FC-A5CC-4AA2-8D73-1A4168D6CC20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7449B5C5-2E8C-41C3-81E3-19ED26982F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7449B5C5-2E8C-41C3-81E3-19ED26982F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7449B5C5-2E8C-41C3-81E3-19ED26982F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7449B5C5-2E8C-41C3-81E3-19ED26982F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
